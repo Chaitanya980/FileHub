@@ -48,7 +48,7 @@ In **FileHub**, Cloudinary is used to store and manage uploaded images and video
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/filehub.git
+   git clone https://github.com/Chaitanya980/filehub.git
    ```
 2. Navigate to the project directory:
    ```bash
